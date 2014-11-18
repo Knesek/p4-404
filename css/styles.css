@@ -1,0 +1,12 @@
+body {
+	background-color: #511F63;
+}
+
+#sky {
+	max-width: 1000px;
+	max-height: 300px;
+}
+
+img {
+	max-width: 50%;
+}
