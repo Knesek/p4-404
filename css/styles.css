@@ -1,12 +1,18 @@
 body {
 	background-color: #511F63;
+	display: block;
+	margin: auto;
+	width: 60%;
 }
 
-#sky {
-	max-width: 1000px;
-	max-height: 300px;
+p {
+    color: #ececec;
+    font-size: 5em;
+    margin-top: 3em;
+    text-align: center;
+    font-family: Arial;
 }
 
-img {
-	max-width: 50%;
+.text {
+	text-align: center;
 }
